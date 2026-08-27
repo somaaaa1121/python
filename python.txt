@@ -1,0 +1,9 @@
+# Define the numbers
+num1 = 5
+num2 =10
+
+# Add the numbers
+total_sum = nu1 + num2
+
+# Display the result
+print(f"The sum is: {total_suum}")
